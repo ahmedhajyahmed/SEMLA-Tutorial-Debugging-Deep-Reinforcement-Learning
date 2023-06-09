@@ -52,3 +52,5 @@ By engaging in this practical exercise, you will witness the power of RLExplorer
 By the end of this tutorial, you will have gained a solid understanding of DRL, the challenges involved in monitoring DRL systems, and how to effectively utilize RLExplorer for fault detection in DRL applications. You will be equipped with practical knowledge and hands-on experience to improve your own DRL algorithms.
 
 We hope you find this tutorial engaging and insightful. Let's dive into the world of DRL debugging with RLExplorer!
+
+PS: Text written with the help of OpenAI ChatGPT 😄
