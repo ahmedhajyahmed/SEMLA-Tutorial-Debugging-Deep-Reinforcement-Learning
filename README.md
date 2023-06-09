@@ -1,6 +1,6 @@
 # SEMLA Tutorial: Debugging DRL Systems with RLExplorer
 
-![Image Description](https://drive.google.com/file/d/1nMIjzQtZ4-SHq6v8FW5X3FUVDAfg_sZm/view?usp=drive_link)
+![Image Description](https://github.com/ahmedhajyahmed/SEMLA-Tutorial-Debugging-Deep-Reinforcement-Learning/blob/main/SEMLA.png)
 
 Welcome to the tutorial on debugging Deep Reinforcement Learning (DRL) systems using RLExplorer, a powerful tool for fault detection in DRL applications. This tutorial is designed to provide you with a hands-on experience in identifying and fixing bugs in DRL algorithms.
 In this tutorial, we will mostly be working with two Google Colaboratory files:
