@@ -15,6 +15,9 @@ In this tutorial, we will mostly be working with two Google Colaboratory files:
 4. [Integrating RLExplorer into a DRL Application](#4-integrating-rlexplorer-into-a-drl-systems)
 6. [Demo: Fault Detection using RLExplorer](#5-demo-fault-detection-using-rlexplorer)
 
+## Link to RLEXplorer repo
+https://github.com/rached1997/RLDebugger
+
 ## 1. Introduction to Deep Reinforcement Learning (DRL)
 
 In this section, we will provide a brief overview of Deep Reinforcement Learning (DRL) and its application areas. We will discuss the fundamental concepts, algorithms, and the underlying principles that make DRL a powerful approach for solving complex problems.
